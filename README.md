@@ -4,4 +4,6 @@
 
 Запуск программы при помощи команды:
 
-$python -m daltonize <imagename.extansion>$
+```
+python -m daltonize <imagename.extansion>
+```
